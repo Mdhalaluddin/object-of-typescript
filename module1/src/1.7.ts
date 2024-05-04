@@ -16,6 +16,7 @@ const myFriend = {
     ...myFriendUpZela,
     ...myFriendsUnion
 }
+myFriend
 
 
 }
